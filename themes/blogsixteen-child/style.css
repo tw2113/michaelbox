@@ -1,0 +1,26 @@
+/*
+Theme Name: BlogSixteen Child
+Theme URI: http://www.blogsixteen.com
+Author: Marcus Tisater
+Author URI: http://www.marcustisater.se
+Description: BlogSixteen is the new fresh look for a blogish style. Customise it to look whatever you would like. Have fun!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: blogsixteen
+Template: blogsixteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url( '../blogsixteen/style.css' );
+.content-area a {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
+.page-template-page-no-sidebar #main {
+	width: 100%;
+}
