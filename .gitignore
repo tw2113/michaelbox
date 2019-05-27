@@ -5,3 +5,9 @@ sharebtns.png
 
 /themes/*
 !/themes/blogsixteen-child
+
+/plugins/*
+!/buddypress-bbpress-contributions-list
+!/prismjs-mdb
+!/social-media-shortcodes
+!/untappd-checkins-widget
