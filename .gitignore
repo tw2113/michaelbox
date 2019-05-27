@@ -7,7 +7,7 @@ sharebtns.png
 !/themes/blogsixteen-child
 
 /plugins/*
-!/buddypress-bbpress-contributions-list
-!/prismjs-mdb
-!/social-media-shortcodes
-!/untappd-checkins-widget
+!/buddypress-bbpress-contributions-list/**/*
+!/prismjs-mdb/**/*
+!/social-media-shortcodes/**/*
+!/untappd-checkins-widget/**/*
