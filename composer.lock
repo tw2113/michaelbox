@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "ae4af3069b5e099be4fa013279608aec",
+    "content-hash": "58815c8a809953c84316d836bbfef538",
     "packages": [
         {
             "name": "composer/installers",
@@ -127,6 +127,26 @@
             "time": "2018-08-27T06:10:37+00:00"
         },
         {
+            "name": "wpackagist-plugin/better-wp-security",
+            "version": "7.4.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/better-wp-security/",
+                "reference": "tags/7.4.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.4.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/better-wp-security/"
+        },
+        {
             "name": "wpackagist-plugin/classic-editor",
             "version": "1.5",
             "source": {
@@ -167,6 +187,26 @@
             "homepage": "https://wordpress.org/plugins/cmb2/"
         },
         {
+            "name": "wpackagist-plugin/creative-commons-configurator-1",
+            "version": "1.8.27",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/creative-commons-configurator-1/",
+                "reference": "tags/1.8.27"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/creative-commons-configurator-1.1.8.27.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/creative-commons-configurator-1/"
+        },
+        {
             "name": "wpackagist-plugin/disable-emojis",
             "version": "1.7.2",
             "source": {
@@ -188,15 +228,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.13",
+            "version": "3.4.16",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.13"
+                "reference": "tags/3.4.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.13.zip",
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.16.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -268,15 +308,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "11.2.1",
+            "version": "11.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/11.2.1"
+                "reference": "tags/11.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.11.2.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.11.4.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -328,15 +368,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "3.0.6",
+            "version": "3.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/3.0.6"
+                "reference": "tags/3.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.3.0.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.3.1.1.zip",
                 "reference": null,
                 "shasum": null
             },

@@ -6,15 +6,18 @@
   "require": {
     "wpackagist-plugin/classic-editor": "1.5",
     "wpackagist-plugin/disable-emojis": "1.7.2",
-    "wpackagist-plugin/ninja-forms": "3.4.13",
+    "wpackagist-plugin/ninja-forms": "3.4.16",
     "wpackagist-plugin/query-monitor": "3.3.6",
     "wpackagist-plugin/sucuri-scanner": "1.8.21",
     "wpackagist-plugin/wa11y": "1.0.2",
-    "wpackagist-plugin/zero-spam": "3.0.6",
+    "wpackagist-plugin/zero-spam": "3.1.1",
     "wpackagist-plugin/wp-to-twitter": "3.3.12",
     "wpackagist-plugin/wp-piwik": "1.0.21",
-    "wpackagist-plugin/wordpress-seo": "11.2.1",
-    "wpackagist-theme/blogsixteen": "1.4.6"
+    "wpackagist-plugin/wordpress-seo": "11.4",
+    "wpackagist-theme/blogsixteen": "1.4.6",
+    "wpackagist-plugin/better-wp-security": "7.4.0",
+    "wpackagist-plugin/cmb2": "2.6.0",
+    "wpackagist-plugin/creative-commons-configurator-1": "1.8.27"
   },
   "extra": {
     "installer-paths": {
