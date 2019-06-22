@@ -175,6 +175,10 @@ function mbe_social_and_affiliate_on_single( $content ) {
 	global $post;
 	setup_postdata( $post );
 
+	if ( 'music_video' === get_post_type( $post->ID ) ) {
+		return $content;
+	}
+
 	if ( is_single() && false === get_post_format( $post->ID ) ) {
 		$social = '
 		<div class="share">
