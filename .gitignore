@@ -2,6 +2,7 @@ advanced-cache.php
 index.php
 sharebtns.png
 /uploads/
+/vendor/
 
 /themes/*
 !/themes/blogsixteen-child
