@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "58815c8a809953c84316d836bbfef538",
+    "content-hash": "8f29ef6c7d99ad3c8c2f02e3cb2fa87d",
     "packages": [
         {
             "name": "composer/installers",
@@ -267,6 +267,26 @@
             "homepage": "https://wordpress.org/plugins/query-monitor/"
         },
         {
+            "name": "wpackagist-plugin/semantic-linkbacks",
+            "version": "4.7.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/semantic-linkbacks/",
+                "reference": "tags/4.7.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.4.7.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/semantic-linkbacks/"
+        },
+        {
             "name": "wpackagist-plugin/sucuri-scanner",
             "version": "1.8.21",
             "source": {
@@ -305,6 +325,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wa11y/"
+        },
+        {
+            "name": "wpackagist-plugin/webmention",
+            "version": "3.8.9",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/webmention/",
+                "reference": "tags/3.8.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/webmention.3.8.9.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/webmention/"
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
