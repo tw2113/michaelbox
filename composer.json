@@ -18,8 +18,9 @@
     "wpackagist-plugin/better-wp-security": "7.4.0",
     "wpackagist-plugin/cmb2": "2.6.0",
     "wpackagist-plugin/creative-commons-configurator-1": "1.8.27",
-    "wpackagist-plugin/webmention": "^3.8",
-    "wpackagist-plugin/semantic-linkbacks": "^4.7"
+    "wpackagist-plugin/webmention": "3.8.9",
+    "wpackagist-plugin/semantic-linkbacks": "3.9.2",
+    "wpackagist-plugin/wp-uf2": "1.1.0"
   },
   "extra": {
     "installer-paths": {

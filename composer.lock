@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c687473e3f48bcdf84e4d07021fc8dc3",
+    "content-hash": "a739645aeef665d70b39933ccdd967d6",
     "packages": [
         {
             "name": "composer/installers",
@@ -268,15 +268,15 @@
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
-            "version": "4.7.5",
+            "version": "3.9.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/semantic-linkbacks/",
-                "reference": "tags/4.7.5"
+                "reference": "tags/3.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.4.7.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.9.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -405,6 +405,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-to-twitter/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-uf2",
+            "version": "1.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-uf2/",
+                "reference": "tags/1.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-uf2.1.1.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-uf2/"
         },
         {
             "name": "wpackagist-plugin/zero-spam",
