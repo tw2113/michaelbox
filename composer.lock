@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a739645aeef665d70b39933ccdd967d6",
+    "content-hash": "26745aae3d657df32d6e84693f6130a6",
     "packages": [
         {
             "name": "composer/installers",
@@ -227,6 +227,26 @@
             "homepage": "https://wordpress.org/plugins/disable-emojis/"
         },
         {
+            "name": "wpackagist-plugin/indieweb-post-kinds",
+            "version": "3.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/indieweb-post-kinds/",
+                "reference": "tags/3.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.3.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/indieweb-post-kinds/"
+        },
+        {
             "name": "wpackagist-plugin/ninja-forms",
             "version": "3.4.16",
             "source": {
@@ -268,15 +288,15 @@
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
-            "version": "3.9.2",
+            "version": "3.9.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/semantic-linkbacks/",
-                "reference": "tags/3.9.2"
+                "reference": "tags/3.9.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.9.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.9.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -348,15 +368,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "11.5",
+            "version": "11.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/11.5"
+                "reference": "tags/11.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.11.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.11.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -388,15 +408,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.3.12",
+            "version": "3.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.3.12"
+                "reference": "tags/3.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.3.12.zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.0.zip",
                 "reference": null,
                 "shasum": null
             },
