@@ -236,3 +236,28 @@ function kaspersky_dequeue_jquery_migrate( &$scripts){
 	}
 }
 add_action( 'wp_default_scripts', 'kaspersky_dequeue_jquery_migrate' );
+
+function mbe_atom_links() {
+    $tmpl = '<link rel="%s" type="%s" title="%s" href="%s" />';
+
+    printf(
+        $tmpl,
+        esc_attr( 'alternate' ),
+        esc_attr( 'application/atom+xml' ),
+        esc_attr( get_bloginfo( 'name' ) . '&raquo; Atom Feed link'  ),
+		get_bloginfo( 'atom_url' )
+    );
+}
+add_action( 'wp_head', 'mbe_atom_links' );
+
+function mbe_add_atom_mime_support( $mimes ) {
+	$mimes = array_merge(
+		$mimes,
+		array(
+			'atom' => 'application/atom+xml',
+		)
+	);
+
+	return $mimes;
+}
+add_filter( 'mime_types', 'mbe_add_atom_mime_support' );
