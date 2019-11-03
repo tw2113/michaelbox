@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4531dff2bfbf3f1992536fb84fee57c7",
+    "content-hash": "82a5292b4b85a61f76bd64e8fa19a6f1",
     "packages": [
         {
             "name": "composer/installers",
@@ -256,15 +256,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "3.3.7",
+            "version": "3.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/3.3.7"
+                "reference": "tags/3.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.3.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.4.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -274,15 +274,15 @@
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
-            "version": "3.9.3",
+            "version": "3.10.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/semantic-linkbacks/",
-                "reference": "tags/3.9.3"
+                "reference": "tags/3.10.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.9.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.10.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -328,15 +328,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "3.8.11",
+            "version": "4.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/3.8.11"
+                "reference": "tags/4.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.3.8.11.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -346,15 +346,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "12.2",
+            "version": "12.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/12.2"
+                "reference": "tags/12.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -382,15 +382,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.1",
+            "version": "3.4.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.1"
+                "reference": "tags/3.4.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
