@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "82a5292b4b85a61f76bd64e8fa19a6f1",
+    "content-hash": "3d05f30bd75f93ae55e56c29c14665ea",
     "packages": [
         {
             "name": "composer/installers",
@@ -238,15 +238,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.20",
+            "version": "3.4.21",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.20"
+                "reference": "tags/3.4.21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.20.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.21.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -346,15 +346,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "12.4",
+            "version": "12.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/12.4"
+                "reference": "tags/12.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -382,15 +382,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.3",
+            "version": "3.4.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.3"
+                "reference": "tags/3.4.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
