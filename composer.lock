@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1413bfdef0b5e563a1976e08cb26229e",
+    "content-hash": "6a8f716b37885131c57094e91fffa3f7",
     "packages": [
         {
             "name": "composer/installers",
@@ -130,15 +130,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "7.5.0",
+            "version": "7.6.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/7.5.0"
+                "reference": "tags/7.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.5.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.6.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -346,15 +346,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "12.7",
+            "version": "12.7.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/12.7"
+                "reference": "tags/12.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.7.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
