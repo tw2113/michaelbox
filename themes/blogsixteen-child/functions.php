@@ -86,7 +86,6 @@ function blogsixteen_posted_on() {
 
 function michaelbox_header_anchor_links() {
 ?>
-
 <script>
 	jQuery(document).ready(function($){
         let url = window.location.href.split('#')[0];
@@ -103,3 +102,8 @@ function michaelbox_header_anchor_links() {
 <?php
 }
 add_action( 'wp_footer', 'michaelbox_header_anchor_links' );
+
+function michaelbox_dashicons_front_end() {
+	wp_enqueue_style( 'dashicons' );
+}
+add_action( 'wp_enqueue_scripts', 'michaelbox_dashicons_front_end' );
