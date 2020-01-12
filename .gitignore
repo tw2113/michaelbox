@@ -5,6 +5,7 @@ sharebtns.png
 /vendor/
 
 /themes/*
+!/themes/blogsixteen
 !/themes/blogsixteen-child
 
 /plugins/*
