@@ -83,3 +83,23 @@ function blogsixteen_posted_on() {
 	echo '<span class="posted-on">' . $posted_on . '</span><span class="byline"> ' . $byline . '</span>'; // WPCS: XSS OK.
 
 }
+
+function michaelbox_header_anchor_links() {
+?>
+
+<script>
+	jQuery(document).ready(function($){
+        let url = window.location.href.split('#')[0];
+        $('.entry-content')
+		.find('h2[id],h3[id],h4[id]')
+		.each(function(i,entry){
+			let id = $(this).attr('id');
+			$(this).append(
+			    '<a class="anchorlink" href="'+url+'#'+id+'"><span class="dashicons dashicons-admin-links"></span></a>'
+			);
+		});
+    });
+</script>
+<?php
+}
+add_action( 'wp_footer', 'michaelbox_header_anchor_links' );
