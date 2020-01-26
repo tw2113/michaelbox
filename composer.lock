@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cf7c3d202c66164b5ba8533a6d143fc9",
+    "content-hash": "e2ea5b0413de64389e49a77a58d29d45",
     "packages": [
         {
             "name": "composer/installers",
@@ -166,7 +166,7 @@
         },
         {
             "name": "wpackagist-plugin/cmb2",
-            "version": "2.6.0",
+            "version": "2.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cmb2/",
@@ -174,7 +174,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1548045394"
+                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1579634658"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -346,15 +346,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "12.8",
+            "version": "12.9.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/12.8"
+                "reference": "tags/12.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.9.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
