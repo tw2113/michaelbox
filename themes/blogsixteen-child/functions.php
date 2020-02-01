@@ -84,6 +84,39 @@ function blogsixteen_posted_on() {
 
 }
 
+function blogsixteen_entry_footer() {
+	// Hide category and tag text for pages.
+	if ( 'post' === get_post_type() ) {
+		/* translators: used between list items, there is a space after the comma */
+		$categories_list = get_the_category_list( esc_html__( ', ', 'blogsixteen' ) );
+		if ( $categories_list && blogsixteen_categorized_blog() ) {
+			printf( '<span class="cat-links">' . esc_html__( 'Categories: %1$s', 'blogsixteen' ) . '</span>', $categories_list ); // WPCS: XSS OK.
+		}
+
+		/* translators: used between list items, there is a space after the comma */
+		$tags_list = get_the_tag_list( '', esc_html__( ', ', 'blogsixteen' ) );
+		if ( $tags_list ) {
+			printf( '<span class="tags-links">' . esc_html__( 'Tags: %1$s', 'blogsixteen' ) . '</span>', $tags_list ); // WPCS: XSS OK.
+		}
+	}
+
+	if ( ! is_single() && ! post_password_required() && ( comments_open() || get_comments_number() ) ) {
+		echo '<span class="comments-link">';
+		comments_popup_link( esc_html__( 'Leave a comment', 'blogsixteen' ), esc_html__( '1 Comment', 'blogsixteen' ), esc_html__( '% Comments', 'blogsixteen' ) );
+		echo '</span>';
+	}
+
+	edit_post_link(
+		sprintf(
+		/* translators: %s: Name of current post */
+			esc_html__( 'Edit %s', 'blogsixteen' ),
+			the_title( '<span class="screen-reader-text">"', '"</span>', false )
+		),
+		'<span class="edit-link">',
+		'</span>'
+	);
+}
+
 function michaelbox_header_anchor_links() {
 ?>
 <script>
