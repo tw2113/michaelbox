@@ -140,3 +140,8 @@ function michaelbox_dashicons_front_end() {
 	wp_enqueue_style( 'dashicons' );
 }
 add_action( 'wp_enqueue_scripts', 'michaelbox_dashicons_front_end' );
+
+function michaelbox_webmention_header() {
+    echo '<h3>Webmentions</h3>';
+}
+add_action( 'comment_form_after', 'michaelbox_webmention_header' );
