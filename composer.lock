@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6930f8c2fb782a0c82930bd84efa5608",
+    "content-hash": "4239a8daac8d690d3ea90c0273bdf729",
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.7.0",
+            "version": "v1.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "141b272484481432cda342727a427dc1e206bfa0"
+                "reference": "7d610d50aae61ae7ed6675e58efeabdf279bb5e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/141b272484481432cda342727a427dc1e206bfa0",
-                "reference": "141b272484481432cda342727a427dc1e206bfa0",
+                "url": "https://api.github.com/repos/composer/installers/zipball/7d610d50aae61ae7ed6675e58efeabdf279bb5e3",
+                "reference": "7d610d50aae61ae7ed6675e58efeabdf279bb5e3",
                 "shasum": ""
             },
             "require": {
@@ -65,6 +65,7 @@
                 "Kanboard",
                 "Lan Management System",
                 "MODX Evo",
+                "MantisBT",
                 "Mautic",
                 "Maya",
                 "OXID",
@@ -119,6 +120,7 @@
                 "shopware",
                 "silverstripe",
                 "sydes",
+                "sylius",
                 "symfony",
                 "typo3",
                 "wordpress",
@@ -126,7 +128,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2019-08-12T15:00:31+00:00"
+            "time": "2020-02-07T10:39:20+00:00"
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
@@ -238,15 +240,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.22",
+            "version": "3.4.23",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.22"
+                "reference": "tags/3.4.23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.22.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.23.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -256,15 +258,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "1.21.2",
+            "version": "2.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/1.21.2"
+                "reference": "tags/2.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.1.21.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.2.0.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -310,15 +312,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.22",
+            "version": "1.8.23",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.22"
+                "reference": "tags/1.8.23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.22.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.23.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -346,15 +348,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "4.0.2",
+            "version": "4.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/4.0.2"
+                "reference": "tags/4.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -364,15 +366,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "12.9.1",
+            "version": "13.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/12.9.1"
+                "reference": "tags/13.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.12.9.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.13.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"

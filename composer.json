@@ -6,23 +6,23 @@
   "require": {
     "wpackagist-plugin/classic-editor": "1.5",
     "wpackagist-plugin/disable-emojis": "1.7.2",
-    "wpackagist-plugin/ninja-forms": "3.4.22",
+    "wpackagist-plugin/ninja-forms": "3.4.23",
     "wpackagist-plugin/query-monitor": "3.5.2",
-    "wpackagist-plugin/sucuri-scanner": "1.8.22",
+    "wpackagist-plugin/sucuri-scanner": "1.8.23",
     "wpackagist-plugin/wa11y": "1.0.2",
     "wpackagist-plugin/zero-spam": "3.1.1",
     "wpackagist-plugin/wp-to-twitter": "3.4.4",
     "wpackagist-plugin/wp-piwik": "1.0.22",
-    "wpackagist-plugin/wordpress-seo": "12.9.1",
+    "wpackagist-plugin/wordpress-seo": "13.0",
     "wpackagist-theme/blogsixteen": "1.4.6",
     "wpackagist-plugin/better-wp-security": "7.6.1",
     "wpackagist-plugin/cmb2": "2.7.0",
     "wpackagist-plugin/creative-commons-configurator-1": "1.8.27",
-    "wpackagist-plugin/webmention": "4.0.2",
+    "wpackagist-plugin/webmention": "4.0.3",
     "wpackagist-plugin/semantic-linkbacks": "3.10.1",
     "wpackagist-plugin/wp-uf2": "1.1.0",
     "wpackagist-plugin/indieweb-post-kinds": "3.3.3",
-    "wpackagist-plugin/publishpress": "1.21.2"
+    "wpackagist-plugin/publishpress": "2.0.1"
   },
   "extra": {
     "installer-paths": {

@@ -19,6 +19,9 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .content-area a {
 	text-decoration: underline;
 }
+.entry-content a.read-more {
+	color: #000 !important;
+}
 
 .page-template-page-no-sidebar #main {
 	width: 100%;
