@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4239a8daac8d690d3ea90c0273bdf729",
+    "content-hash": "f3fa843c1a8602d3ebb31195aff242e8",
     "packages": [
         {
             "name": "composer/installers",
@@ -258,15 +258,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/2.0.1"
+                "reference": "tags/2.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.2.0.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.2.0.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -312,15 +312,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.23",
+            "version": "1.8.24",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.23"
+                "reference": "tags/1.8.24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.23.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.24.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -366,15 +366,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "13.0",
+            "version": "13.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/13.0"
+                "reference": "tags/13.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.13.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.13.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
