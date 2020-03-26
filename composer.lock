@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4415c1f8c52dcec772a90ae054a956f7",
+    "content-hash": "867862f3934ab420ffbd31f520b66fa7",
     "packages": [
         {
             "name": "composer/installers",
@@ -258,15 +258,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/2.0.2"
+                "reference": "tags/2.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.2.0.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.2.0.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -366,15 +366,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "13.2",
+            "version": "13.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/13.2"
+                "reference": "tags/13.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.13.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.13.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
