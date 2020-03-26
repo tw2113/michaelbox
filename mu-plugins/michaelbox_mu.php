@@ -12,7 +12,11 @@ add_action('init', function(){
 	remove_action('wp_head', 'wp_generator');
 	remove_action('wp_head', 'adjacent_posts_rel_link_wp_head');
 });
-
+add_action( 'wp_head', function() {
+?>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥃</text></svg>">
+<?php
+} );
 add_action( 'wp_head', function() {
 	echo '<meta name="google-site-verification" content="nr59Sho8HZXYWDuPVFHUM9mEnBNDfNkQwhI-lzKA0ao" />';
 }, 999 );
