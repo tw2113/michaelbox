@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4c7713f88ebc99780bc112954a9f0726",
+    "content-hash": "c06b98f191532e2ec65d6b362eaee9de",
     "packages": [
         {
             "name": "composer/installers",
@@ -135,15 +135,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "7.7.0",
+            "version": "7.7.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/7.7.0"
+                "reference": "tags/7.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.7.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.7.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
