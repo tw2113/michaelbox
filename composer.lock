@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9c2ce076233a86d226893e4c6b88a6d1",
+    "content-hash": "83ea6ad64086efb73d279f8b6e544793",
     "packages": [
         {
             "name": "composer/installers",
@@ -243,15 +243,15 @@
         },
         {
             "name": "wpackagist-plugin/indieweb-post-kinds",
-            "version": "3.3.3",
+            "version": "3.3.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/indieweb-post-kinds/",
-                "reference": "tags/3.3.3"
+                "reference": "tags/3.3.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.3.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.3.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -387,15 +387,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "14.3",
+            "version": "14.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/14.3"
+                "reference": "tags/14.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.4.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -423,15 +423,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.4",
+            "version": "3.4.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.4"
+                "reference": "tags/3.4.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
