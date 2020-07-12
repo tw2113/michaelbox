@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "83ea6ad64086efb73d279f8b6e544793",
+    "content-hash": "a9e9c8f17d4b1f59de8166a5fa3b9f7b",
     "packages": [
         {
             "name": "composer/installers",
@@ -350,6 +350,24 @@
             "homepage": "https://wordpress.org/plugins/sucuri-scanner/"
         },
         {
+            "name": "wpackagist-plugin/untappd-checkins-widget",
+            "version": "1.3.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/untappd-checkins-widget/",
+                "reference": "tags/1.3.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/untappd-checkins-widget.1.3.3.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/untappd-checkins-widget/"
+        },
+        {
             "name": "wpackagist-plugin/wa11y",
             "version": "1.0.2",
             "source": {
@@ -387,15 +405,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "14.4.1",
+            "version": "14.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/14.4.1"
+                "reference": "tags/14.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.4.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -423,15 +441,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.6",
+            "version": "3.4.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.6"
+                "reference": "tags/3.4.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
