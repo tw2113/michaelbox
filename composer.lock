@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7ad098eb9db2aa0f07fe1c77f62b5fd3",
+    "content-hash": "458e21b957ff50d24f6ea84811fcb45e",
     "packages": [
         {
             "name": "composer/installers",
@@ -243,15 +243,15 @@
         },
         {
             "name": "wpackagist-plugin/indieweb-post-kinds",
-            "version": "3.3.4",
+            "version": "3.3.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/indieweb-post-kinds/",
-                "reference": "tags/3.3.4"
+                "reference": "tags/3.3.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.3.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.3.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -405,15 +405,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "14.6.1",
+            "version": "14.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/14.6.1"
+                "reference": "tags/14.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.6.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -441,15 +441,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.7",
+            "version": "3.4.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.7"
+                "reference": "tags/3.4.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -477,15 +477,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "4.8.0",
+            "version": "4.9.10",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/4.8.0"
+                "reference": "tags/4.9.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.9.10.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
