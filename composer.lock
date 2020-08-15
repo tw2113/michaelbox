@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ee9358e96438b13bc61ccd6c458d7a6",
+    "content-hash": "bd967bed6ac84a20227efa518713478e",
     "packages": [
         {
             "name": "composer/installers",
@@ -135,15 +135,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "7.7.1",
+            "version": "7.8.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/7.7.1"
+                "reference": "tags/7.8.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.7.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.8.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -153,15 +153,15 @@
         },
         {
             "name": "wpackagist-plugin/classic-editor",
-            "version": "1.5",
+            "version": "1.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/classic-editor/",
-                "reference": "tags/1.5"
+                "reference": "tags/1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/classic-editor.1.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/classic-editor.1.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -207,15 +207,15 @@
         },
         {
             "name": "wpackagist-plugin/custom-post-type-ui",
-            "version": "1.7.4",
+            "version": "1.8.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/custom-post-type-ui/",
-                "reference": "tags/1.7.4"
+                "reference": "tags/1.8.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/custom-post-type-ui.1.7.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/custom-post-type-ui.1.8.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -261,15 +261,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.24.3",
+            "version": "3.4.25",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.24.3"
+                "reference": "tags/3.4.25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.24.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.25.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -279,15 +279,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/2.2.0"
+                "reference": "tags/2.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.2.2.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.2.2.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -441,15 +441,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.8",
+            "version": "3.4.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.8"
+                "reference": "tags/3.4.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -477,15 +477,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "4.9.12",
+            "version": "4.9.13",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/4.9.12"
+                "reference": "tags/4.9.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.9.12.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.9.13.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
