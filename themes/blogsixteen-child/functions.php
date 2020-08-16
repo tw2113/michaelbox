@@ -145,3 +145,9 @@ function michaelbox_webmention_header() {
     echo '<h3>Webmentions</h3>';
 }
 add_action( 'comment_form_after', 'michaelbox_webmention_header' );
+
+function michaelbox_home_page_menu_args( $args ) {
+	$args['show_home'] = true;
+	return $args;
+}
+add_filter( 'wp_page_menu_args', 'michaelbox_home_page_menu_args' );
