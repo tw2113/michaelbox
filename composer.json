@@ -6,10 +6,10 @@
   "require": {
     "wpackagist-plugin/classic-editor": "1.6",
     "wpackagist-plugin/disable-emojis": "1.7.2",
-    "wpackagist-plugin/ninja-forms": "3.4.26",
+    "wpackagist-plugin/ninja-forms": "3.4.27",
     "wpackagist-plugin/query-monitor": "3.6.4",
     "wpackagist-plugin/sucuri-scanner": "1.8.24",
-    "wpackagist-plugin/wa11y": "1.0.2",
+    "wpackagist-plugin/wa11y": "1.0.3",
     "wpackagist-plugin/zero-spam": "4.10.1",
     "wpackagist-plugin/wp-to-twitter": "3.4.9",
     "wpackagist-plugin/wp-piwik": "1.0.22",

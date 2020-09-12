@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c975c24f2f27476d1ef54b7b39a7551e",
+    "content-hash": "e0d99af76f826c7e3c88b1c1b4ec5aaf",
     "packages": [
         {
             "name": "composer/installers",
@@ -261,15 +261,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.26",
+            "version": "3.4.27",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.26"
+                "reference": "tags/3.4.27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.26.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.27.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -369,15 +369,15 @@
         },
         {
             "name": "wpackagist-plugin/wa11y",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wa11y/",
-                "reference": "tags/1.0.2"
+                "reference": "tags/1.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wa11y.1.0.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wa11y.1.0.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
