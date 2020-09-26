@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e0d99af76f826c7e3c88b1c1b4ec5aaf",
+    "content-hash": "5c450c506553d0110139e705443c78dd",
     "packages": [
         {
             "name": "composer/installers",
@@ -207,15 +207,15 @@
         },
         {
             "name": "wpackagist-plugin/custom-post-type-ui",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/custom-post-type-ui/",
-                "reference": "tags/1.8.0"
+                "reference": "tags/1.8.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/custom-post-type-ui.1.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/custom-post-type-ui.1.8.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -261,15 +261,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.27",
+            "version": "3.4.30",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.27"
+                "reference": "tags/3.4.30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.27.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.30.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -387,15 +387,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "4.0.3",
+            "version": "4.0.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/4.0.3"
+                "reference": "tags/4.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -423,15 +423,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-piwik",
-            "version": "1.0.22",
+            "version": "1.0.24",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-piwik/",
-                "reference": "tags/1.0.22"
+                "reference": "tags/1.0.24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-piwik.1.0.22.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-piwik.1.0.24.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -441,15 +441,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.4.9",
+            "version": "3.4.10",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.4.9"
+                "reference": "tags/3.4.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.4.10.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
