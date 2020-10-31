@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "197bf9764b901a8a961f9fc983ef49b7",
+    "content-hash": "e14c20d5ddc43197f069b4e400f518dc",
     "packages": [
         {
             "name": "composer/installers",
@@ -135,15 +135,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "7.8.0",
+            "version": "7.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/7.8.0"
+                "reference": "tags/7.9.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.9.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -243,15 +243,15 @@
         },
         {
             "name": "wpackagist-plugin/indieweb-post-kinds",
-            "version": "3.4.4",
+            "version": "3.4.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/indieweb-post-kinds/",
-                "reference": "tags/3.4.4"
+                "reference": "tags/3.4.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.4.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.4.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -297,15 +297,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "2.2.1",
+            "version": "2.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/2.2.1"
+                "reference": "tags/2.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.2.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.2.4.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -423,15 +423,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "15.0",
+            "version": "15.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/15.0"
+                "reference": "tags/15.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -495,15 +495,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "4.10.1",
+            "version": "4.10.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/4.10.1"
+                "reference": "tags/4.10.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.10.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.10.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
