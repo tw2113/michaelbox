@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "81badef2fbb8ddb792b3b4ff23d41d0c",
+    "content-hash": "afba873db5f0fd9926cc9cb780b400f7",
     "packages": [
         {
             "name": "composer/installers",
@@ -261,15 +261,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.30",
+            "version": "3.4.32",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.30"
+                "reference": "tags/3.4.32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.30.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.32.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -315,15 +315,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "3.6.4",
+            "version": "3.6.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/3.6.4"
+                "reference": "tags/3.6.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.6.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.6.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -423,15 +423,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "15.2.1",
+            "version": "15.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/15.2.1"
+                "reference": "tags/15.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
