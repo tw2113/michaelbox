@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "afba873db5f0fd9926cc9cb780b400f7",
+    "content-hash": "75cea1a0b76d59afec7bb8e05e247bec",
     "packages": [
         {
             "name": "composer/installers",
@@ -243,15 +243,15 @@
         },
         {
             "name": "wpackagist-plugin/indieweb-post-kinds",
-            "version": "3.4.10",
+            "version": "3.4.11",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/indieweb-post-kinds/",
-                "reference": "tags/3.4.10"
+                "reference": "tags/3.4.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.4.10.zip"
+                "url": "https://downloads.wordpress.org/plugin/indieweb-post-kinds.3.4.11.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -297,15 +297,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "2.4.1",
+            "version": "3.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/2.4.1"
+                "reference": "tags/3.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.2.4.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.0.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
