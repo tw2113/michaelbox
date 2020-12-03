@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "75cea1a0b76d59afec7bb8e05e247bec",
+    "content-hash": "84cb99ed2f79a689d3ed9e1afe67ea4f",
     "packages": [
         {
             "name": "composer/installers",
@@ -131,6 +131,20 @@
                 "zend",
                 "zikula"
             ],
+            "support": {
+                "issues": "https://github.com/composer/installers/issues",
+                "source": "https://github.com/composer/installers/tree/v1.9.0"
+            },
+            "funding": [
+                {
+                    "url": "https://packagist.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-04-07T06:57:05+00:00"
         },
         {
@@ -186,24 +200,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/cmb2/"
-        },
-        {
-            "name": "wpackagist-plugin/creative-commons-configurator-1",
-            "version": "1.8.27",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/creative-commons-configurator-1/",
-                "reference": "tags/1.8.27"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/creative-commons-configurator-1.1.8.27.zip"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/creative-commons-configurator-1/"
         },
         {
             "name": "wpackagist-plugin/custom-post-type-ui",
@@ -423,15 +419,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "15.3",
+            "version": "15.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/15.3"
+                "reference": "tags/15.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -538,5 +534,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
