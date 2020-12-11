@@ -20,7 +20,7 @@
 				<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'blogsixteen' ) ); ?>"><?php printf( esc_html__( '// Proudly powered by %s', 'blogsixteen' ), 'WordPress' ); ?></a>
 				<span class="sep"> | </span>
 				<?php printf( esc_html__( 'Theme: %1$s', 'blogsixteen' ), 'blogsixteen', ''); ?>
-				<p>// Like how well the site runs? Use my <a href="https://m.do.co/c/4641c57e4ba2">DigitalOcean affiliate link</a> to get your own droplet.</p>
+				<p>// Like how well the site runs? Use my <a href="https://m.do.co/c/4641c57e4ba2">affiliate link</a> to get your own DigitalOcean droplet.</p>
 			</div><!-- .site-info -->
 		</div>
 
