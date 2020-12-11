@@ -43,3 +43,12 @@ Use it to make something cool, have fun, and share what you've learned with othe
 #webmention-source {
 	width: 100%;
 }
+
+#masthead .site-branding,
+#masthead .site-branding a {
+	color: #333;
+}
+
+#masthead .site-description::after {
+	border-color: #333;
+}
