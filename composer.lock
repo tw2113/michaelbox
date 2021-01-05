@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3644d01743447a0cd378740940afd096",
+    "content-hash": "91302219dbeb3a8046e661ec0f6be029",
     "packages": [
         {
             "name": "composer/installers",
@@ -254,6 +254,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/indieweb-post-kinds/"
+        },
+        {
+            "name": "wpackagist-plugin/newsletter-glue",
+            "version": "1.1.9",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/newsletter-glue/",
+                "reference": "tags/1.1.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.1.9.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/newsletter-glue/"
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
