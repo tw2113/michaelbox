@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "950711c61ab206f998a84a158aab32d0",
+    "content-hash": "dc6901104fb7c9de744eac62c49c1402",
     "packages": [
         {
             "name": "composer/installers",
@@ -311,15 +311,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.0.1",
+            "version": "3.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.0.1"
+                "reference": "tags/3.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.0.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.0.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
