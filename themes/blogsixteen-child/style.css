@@ -53,3 +53,11 @@ Use it to make something cool, have fun, and share what you've learned with othe
 #masthead .site-description::after {
 	border-color: #333;
 }
+
+.entry-meta {
+	margin-bottom: 10px;
+}
+
+.site-main .post-navigation {
+	margin-top: 1.5em;
+}
