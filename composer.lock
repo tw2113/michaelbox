@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dc6901104fb7c9de744eac62c49c1402",
+    "content-hash": "85d04886001114192d2a8cc12da8c15e",
     "packages": [
         {
             "name": "composer/installers",
@@ -257,15 +257,15 @@
         },
         {
             "name": "wpackagist-plugin/newsletter-glue",
-            "version": "1.1.10",
+            "version": "1.1.11",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/newsletter-glue/",
-                "reference": "tags/1.1.10"
+                "reference": "tags/1.1.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.1.10.zip"
+                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.1.11.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
