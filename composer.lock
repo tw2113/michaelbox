@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "85d04886001114192d2a8cc12da8c15e",
+    "content-hash": "ebe29603782b72962f0dbc82ebf863d8",
     "packages": [
         {
             "name": "composer/installers",
@@ -218,6 +218,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/cmb2/"
+        },
+        {
+            "name": "wpackagist-plugin/conditional-widgets",
+            "version": "2.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/conditional-widgets/",
+                "reference": "tags/2.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/conditional-widgets.2.2.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/conditional-widgets/"
         },
         {
             "name": "wpackagist-plugin/disable-emojis",
