@@ -65,3 +65,26 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .comment-body p {
 	margin-bottom: 15px;
 }
+.textwidget ul {
+	margin: 0;
+	padding-left: 20px;
+}
+
+#mc-embedded-subscribe-form #mce-EMAIL {
+	border: 1px solid #333;
+}
+
+#mc_embed_signup p {
+	margin-bottom: 30px;
+}
+
+#mc_embed_signup input[type="email"] {
+	border-radius: 0;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+#mc_embed_signup input[type="submit"]:hover {
+	background: #e18728;
+	border: 1px solid #333;
+}
