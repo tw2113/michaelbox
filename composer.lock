@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e9f3a1be1789da919e034d1263b323ef",
+    "content-hash": "008ca2cca540a298f83a335d33210be2",
     "packages": [
         {
             "name": "composer/installers",
@@ -282,15 +282,15 @@
         },
         {
             "name": "wpackagist-plugin/newsletter-glue",
-            "version": "1.1.11",
+            "version": "1.1.13",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/newsletter-glue/",
-                "reference": "tags/1.1.11"
+                "reference": "tags/1.1.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.1.11.zip"
+                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.1.13.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -300,15 +300,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.4.33",
+            "version": "3.4.34",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.4.33"
+                "reference": "tags/3.4.34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.33.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.4.34.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
