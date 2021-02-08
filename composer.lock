@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "44cdf7a337e8aa2f9b34de3064384d0b",
+    "content-hash": "bf5b17bae2d3c47c308cb64d39ab7f89",
     "packages": [
         {
             "name": "composer/installers",
@@ -351,6 +351,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/query-monitor/"
+        },
+        {
+            "name": "wpackagist-plugin/reading-time-wp",
+            "version": "2.0.10",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/reading-time-wp/",
+                "reference": "tags/2.0.10"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/reading-time-wp.2.0.10.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/reading-time-wp/"
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
