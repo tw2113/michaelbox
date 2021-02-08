@@ -92,3 +92,13 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .home h3.entry-title {
 	color: #333;
 }
+
+.rt-reading-time {
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.rt-time,
+.rt-postfix {
+	color: #e18728;
+	font-weight: bold;
+}
