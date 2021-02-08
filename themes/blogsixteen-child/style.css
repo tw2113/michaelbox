@@ -88,3 +88,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 	background: #e18728;
 	border: 1px solid #333;
 }
+
+.home h3.entry-title {
+	color: #333;
+}
