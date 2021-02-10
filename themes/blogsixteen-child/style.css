@@ -15,7 +15,13 @@ This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
 
+
 @import url( '../blogsixteen/style.css' );
+
+:root {
+	--background-color: #fafafa;
+}
+
 .content-area a,
 .footer-content a {
 	text-decoration: underline;
@@ -101,4 +107,14 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .rt-postfix {
 	color: #e18728;
 	font-weight: bold;
+}
+
+.e-content h1,
+.e-content h2,
+.e-content h3,
+.e-content h4,
+.e-content h5 {
+	background: var(--background-color);
+	position: sticky;
+	top: 0;
 }
