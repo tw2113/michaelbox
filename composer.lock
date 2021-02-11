@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bf5b17bae2d3c47c308cb64d39ab7f89",
+    "content-hash": "11d0a9f353442337f39dd4562cec08b4",
     "packages": [
         {
             "name": "composer/installers",
@@ -189,6 +189,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/better-wp-security/"
+        },
+        {
+            "name": "wpackagist-plugin/breadcrumb-navxt",
+            "version": "6.6.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/breadcrumb-navxt/",
+                "reference": "tags/6.6.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.6.6.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/breadcrumb-navxt/"
         },
         {
             "name": "wpackagist-plugin/classic-editor",
