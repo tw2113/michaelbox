@@ -12,6 +12,13 @@ get_header();?>
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
 
+        <div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+			<?php
+			if ( function_exists( 'bcn_display' ) ) {
+				bcn_display();
+			}?>
+        </div>
+
 		<?php while ( have_posts() ) : the_post(); ?>
 
 			<?php get_template_part( 'template-parts/content', 'single' ); ?>
