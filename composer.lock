@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c50159e557bd0b46edf3a33408849ee6",
+    "content-hash": "2755914619bf90497457b6685d24b088",
     "packages": [
         {
             "name": "composer/installers",
@@ -282,15 +282,15 @@
         },
         {
             "name": "wpackagist-plugin/newsletter-glue",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/newsletter-glue/",
-                "reference": "tags/1.2.2"
+                "reference": "tags/1.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.2.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.2.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -534,15 +534,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "4.10.2",
+            "version": "5.0.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/4.10.2"
+                "reference": "tags/5.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.4.10.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
