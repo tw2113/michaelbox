@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2755914619bf90497457b6685d24b088",
+    "content-hash": "ac1dc17c11e543477f8647a534166c94",
     "packages": [
         {
             "name": "composer/installers",
@@ -534,15 +534,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "5.0.6",
+            "version": "5.0.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/5.0.6"
+                "reference": "tags/5.0.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
