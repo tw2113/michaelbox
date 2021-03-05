@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ac1dc17c11e543477f8647a534166c94",
+    "content-hash": "6095c886296f5e589cb27e544338537a",
     "packages": [
         {
             "name": "composer/installers",
@@ -228,7 +228,7 @@
         },
         {
             "name": "wpackagist-plugin/cmb2",
-            "version": "2.8.0",
+            "version": "2.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cmb2/",
@@ -236,7 +236,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1612800893"
+                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1614826089"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -246,15 +246,15 @@
         },
         {
             "name": "wpackagist-plugin/conditional-widgets",
-            "version": "2.2",
+            "version": 3,
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/conditional-widgets/",
-                "reference": "tags/2.2"
+                "reference": "tags/3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/conditional-widgets.2.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/conditional-widgets.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -534,15 +534,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "5.0.8",
+            "version": "5.0.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/5.0.8"
+                "reference": "tags/5.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
