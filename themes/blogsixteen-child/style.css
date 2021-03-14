@@ -122,3 +122,13 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .breadcrumbs {
 	margin-bottom: 25px;
 }
+
+.page-id-1711 .blogroll {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 0;
+	padding-left: 0;
+}
+.page-id-1711 .blogroll li {
+	list-style: none;
+}
