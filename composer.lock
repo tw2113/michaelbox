@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6888e0aac98f7913f9aab2c95019addd",
+    "content-hash": "77814aa041ddebac62fc1b85c01c05a5",
     "packages": [
         {
             "name": "composer/installers",
@@ -191,6 +191,24 @@
             "homepage": "https://wordpress.org/plugins/better-wp-security/"
         },
         {
+            "name": "wpackagist-plugin/blogroll-block",
+            "version": "1.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/blogroll-block/",
+                "reference": "tags/1.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/blogroll-block.1.1.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/blogroll-block/"
+        },
+        {
             "name": "wpackagist-plugin/breadcrumb-navxt",
             "version": "6.6.0",
             "source": {
@@ -318,15 +336,15 @@
         },
         {
             "name": "wpackagist-plugin/public-post-preview",
-            "version": "2.9.2",
+            "version": "2.9.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/public-post-preview/",
-                "reference": "tags/2.9.2"
+                "reference": "tags/2.9.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/public-post-preview.2.9.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/public-post-preview.2.9.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -498,15 +516,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.5.0",
+            "version": "3.5.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.5.0"
+                "reference": "tags/3.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
