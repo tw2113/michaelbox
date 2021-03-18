@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "77814aa041ddebac62fc1b85c01c05a5",
+    "content-hash": "e1da29e6f966e1a823a4bce3e906865a",
     "packages": [
         {
             "name": "composer/installers",
@@ -354,15 +354,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.2.0",
+            "version": "3.3.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.2.0"
+                "reference": "tags/3.3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.2.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.3.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -426,15 +426,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.25",
+            "version": "1.8.26",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.25"
+                "reference": "tags/1.8.26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.25.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.26.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -516,15 +516,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.5.1",
+            "version": "3.5.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.5.1"
+                "reference": "tags/3.5.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
