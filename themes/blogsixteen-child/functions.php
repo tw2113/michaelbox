@@ -157,3 +157,14 @@ function michaelbox_home_page_menu_args( $args ) {
 	return $args;
 }
 add_filter( 'wp_page_menu_args', 'michaelbox_home_page_menu_args' );
+
+function michaelbox_new_excerpt_more( $more ) {
+    $title = strip_tags( get_the_title( get_the_ID() ) );
+    $label = esc_attr( "Read more about {$title}" );
+	return ' <a class="read-more" aria-label="' . $label . '" href="' . get_permalink( get_the_ID() ) . '">' . __( 'Read More...', 'blogsixteen' ) . '</a>';
+}
+
+add_action('wp_head',function(){
+	remove_filter( 'excerpt_more', 'blogsixteen_new_excerpt_more' );
+	add_filter( 'excerpt_more', 'michaelbox_new_excerpt_more' );
+});
