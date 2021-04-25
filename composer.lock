@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "550b8e9d12ea4da40aa9b1045830e20f",
+    "content-hash": "fdc4862f5f856048198e3c0e9f2f5b0b",
     "packages": [
         {
             "name": "composer/installers",
@@ -300,15 +300,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.1.1",
+            "version": "6.1.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.1.1"
+                "reference": "tags/6.1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -336,15 +336,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.5.3",
+            "version": "3.5.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.5.3"
+                "reference": "tags/3.5.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.5.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.5.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
