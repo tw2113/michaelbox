@@ -185,3 +185,13 @@ function mbe_add_atom_mime_support( $mimes ) {
 	return $mimes;
 }
 add_filter( 'mime_types', 'mbe_add_atom_mime_support' );
+
+function mde_hide_profile_fields( $contactmethods ) {
+    unset( $contactmethods['aim'] );
+    unset( $contactmethods['jabber'] );
+    unset( $contactmethods['yim'] );
+
+    $contactmethods['github'] = 'GitHub';
+    return $contactmethods;
+}
+add_filter('user_contactmethods','mde_hide_profile_fields',10,1);
