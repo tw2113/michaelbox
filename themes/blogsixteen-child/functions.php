@@ -29,22 +29,24 @@ function blogsixteen_posted_on() {
 
 function blogsixteen_entry_footer() {
 
-    echo '<hr/>';
-    ?>
-        <div class="authorbio">
-            <div class="avatar">
-	            <?php
-		            #echo get_avatar( get_the_author_meta( 'ID' ) );
-	            ?>
+    if ( ! is_search() ) {
+        echo '<hr/>';
+        ?>
+            <div class="authorbio">
+                <div class="avatar">
+                    <?php
+                        #echo get_avatar( get_the_author_meta( 'ID' ) );
+                    ?>
+                </div>
+                <div class="biotext">
+                <?php
+                    echo get_avatar( get_the_author_meta( 'ID' ), 160 );
+                    echo wpautop( get_the_author_meta('description') );
+                ?>
+                </div>
             </div>
-            <div class="biotext">
-            <?php
-                echo get_avatar( get_the_author_meta( 'ID' ), 160 );
-	            echo wpautop( get_the_author_meta('description') );
-            ?>
-            </div>
-        </div>
-    <?php
+        <?php
+    }
 	// Hide category and tag text for pages.
 	if ( 'post' === get_post_type() ) {
 		/* translators: used between list items, there is a space after the comma */
