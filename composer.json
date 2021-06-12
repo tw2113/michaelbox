@@ -8,7 +8,7 @@
   "require": {
     "wpackagist-plugin/classic-editor": "1.6",
     "wpackagist-plugin/disable-emojis": "1.7.2",
-    "wpackagist-plugin/ninja-forms": "3.5.4",
+    "wpackagist-plugin/ninja-forms": "3.5.5",
     "wpackagist-plugin/query-monitor": "3.7.1",
     "wpackagist-plugin/sucuri-scanner": "1.8.26",
     "wpackagist-plugin/wa11y": "1.0.3",
