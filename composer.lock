@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a2c220c7f61397525c206892ea8c7fe5",
+    "content-hash": "7f40a456e5b7050bd50a1d51635cdd7b",
     "packages": [
         {
             "name": "composer/installers",
@@ -302,15 +302,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.1.5",
+            "version": "6.1.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.1.5"
+                "reference": "tags/6.1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -374,15 +374,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.3.2",
+            "version": "3.3.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.3.2"
+                "reference": "tags/3.3.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.3.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.3.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -554,15 +554,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.5.2",
+            "version": "3.5.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.5.2"
+                "reference": "tags/3.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
