@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7f40a456e5b7050bd50a1d51635cdd7b",
+    "content-hash": "21e0042390da3ca54dff39553d98e589",
     "packages": [
         {
             "name": "composer/installers",
@@ -302,15 +302,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.1.7",
+            "version": "6.1.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.1.7"
+                "reference": "tags/6.1.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -320,15 +320,15 @@
         },
         {
             "name": "wpackagist-plugin/newsletter-glue",
-            "version": "1.3.4",
+            "version": "1.3.6.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/newsletter-glue/",
-                "reference": "tags/1.3.4"
+                "reference": "tags/1.3.6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.3.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/newsletter-glue.1.3.6.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -338,15 +338,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.5.5",
+            "version": "3.5.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.5.5"
+                "reference": "tags/3.5.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.5.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.5.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -374,15 +374,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.3.3",
+            "version": "3.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.3.3"
+                "reference": "tags/3.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.3.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.4.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -633,5 +633,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
