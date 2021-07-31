@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7c37c197654834477e560de569297aaa",
+    "content-hash": "465d0e1ec3821c87f715f88931a8bc0d",
     "packages": [
         {
             "name": "composer/installers",
@@ -176,15 +176,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "7.9.0",
+            "version": "8.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/7.9.0"
+                "reference": "tags/8.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.7.9.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.8.0.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -230,15 +230,15 @@
         },
         {
             "name": "wpackagist-plugin/classic-editor",
-            "version": "1.6.1",
+            "version": "1.6.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/classic-editor/",
-                "reference": "tags/1.6.1"
+                "reference": "tags/1.6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/classic-editor.1.6.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/classic-editor.1.6.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -302,15 +302,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.1.9",
+            "version": "6.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.1.9"
+                "reference": "tags/6.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.1.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.2.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -428,15 +428,15 @@
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
-            "version": "3.10.4",
+            "version": "3.11.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/semantic-linkbacks/",
-                "reference": "tags/3.10.4"
+                "reference": "tags/3.11.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.10.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.11.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -446,15 +446,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.26",
+            "version": "1.8.27",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.26"
+                "reference": "tags/1.8.27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.26.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.27.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -464,15 +464,15 @@
         },
         {
             "name": "wpackagist-plugin/table-of-contents",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/table-of-contents/",
-                "reference": "tags/1.0.0"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/table-of-contents.1.0.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/table-of-contents.zip?timestamp=1627633854"
             },
             "require": {
                 "composer/installers": "~1.0"
