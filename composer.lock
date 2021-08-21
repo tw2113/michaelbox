@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "465d0e1ec3821c87f715f88931a8bc0d",
+    "content-hash": "1c2d2d33d42c9fd6d716ccaf9384ef66",
     "packages": [
         {
             "name": "composer/installers",
@@ -176,15 +176,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "8.0.1",
+            "version": "8.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/8.0.1"
+                "reference": "tags/8.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.8.0.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.8.0.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -284,15 +284,15 @@
         },
         {
             "name": "wpackagist-plugin/disable-emojis",
-            "version": "1.7.2",
+            "version": "1.7.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/disable-emojis/",
-                "reference": "tags/1.7.2"
+                "reference": "tags/1.7.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/disable-emojis.1.7.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/disable-emojis.1.7.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -302,15 +302,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.2.1",
+            "version": "6.2.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.2.1"
+                "reference": "tags/6.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.2.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -374,15 +374,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.4.1",
+            "version": "3.5.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.4.1"
+                "reference": "tags/3.5.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.4.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.5.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -446,15 +446,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.27",
+            "version": "1.8.28",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.27"
+                "reference": "tags/1.8.28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.27.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.28.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -472,7 +472,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/table-of-contents.zip?timestamp=1627633854"
+                "url": "https://downloads.wordpress.org/plugin/table-of-contents.zip?timestamp=1628011168"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -590,15 +590,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "5.0.12",
+            "version": "5.0.13",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/5.0.12"
+                "reference": "tags/5.0.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.12.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.0.13.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
