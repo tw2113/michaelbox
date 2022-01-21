@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4b05a20683ecda824de94a47d5d86d00",
+    "content-hash": "479e23ecc3d877fa0f2dc635cad78b8f",
     "packages": [
         {
             "name": "composer/installers",
@@ -205,15 +205,15 @@
         },
         {
             "name": "wpackagist-plugin/breadcrumb-navxt",
-            "version": "7.0.1",
+            "version": "7.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/breadcrumb-navxt/",
-                "reference": "tags/7.0.1"
+                "reference": "tags/7.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.7.0.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.7.0.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -277,15 +277,15 @@
         },
         {
             "name": "wpackagist-plugin/disable-emojis",
-            "version": "1.7.3",
+            "version": "1.7.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/disable-emojis/",
-                "reference": "tags/1.7.3"
+                "reference": "tags/1.7.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/disable-emojis.1.7.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/disable-emojis.1.7.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -295,15 +295,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.3.0",
+            "version": "6.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.3.0"
+                "reference": "tags/6.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.3.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.4.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -385,15 +385,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "3.8.1",
+            "version": "3.8.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/3.8.1"
+                "reference": "tags/3.8.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.8.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.8.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -511,15 +511,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "4.0.5",
+            "version": "4.0.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/4.0.5"
+                "reference": "tags/4.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -547,15 +547,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.5.4",
+            "version": "3.5.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.5.4"
+                "reference": "tags/3.5.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.5.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -583,15 +583,15 @@
         },
         {
             "name": "wpackagist-plugin/zero-spam",
-            "version": "5.2.8",
+            "version": "5.2.10",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/zero-spam/",
-                "reference": "tags/5.2.8"
+                "reference": "tags/5.2.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.2.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/zero-spam.5.2.10.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -626,5 +626,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
