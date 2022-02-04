@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "479e23ecc3d877fa0f2dc635cad78b8f",
+    "content-hash": "d5ef78ae25ced0750fb6566f5e42a6a3",
     "packages": [
         {
             "name": "composer/installers",
@@ -151,15 +151,15 @@
         },
         {
             "name": "wpackagist-plugin/autodescription",
-            "version": "4.2.2",
+            "version": "4.2.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autodescription/",
-                "reference": "tags/4.2.2"
+                "reference": "tags/4.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autodescription.4.2.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/autodescription.4.2.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -367,15 +367,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.6.3",
+            "version": "3.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.6.3"
+                "reference": "tags/3.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.6.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.7.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -457,7 +457,7 @@
         },
         {
             "name": "wpackagist-plugin/table-of-contents",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/table-of-contents/",
@@ -465,7 +465,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/table-of-contents.zip?timestamp=1628011168"
+                "url": "https://downloads.wordpress.org/plugin/table-of-contents.zip?timestamp=1643197160"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -511,15 +511,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "4.0.6",
+            "version": "4.0.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/4.0.6"
+                "reference": "tags/4.0.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.8.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
