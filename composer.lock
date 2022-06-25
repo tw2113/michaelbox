@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "188dd2c55b6f2523b6da8922997ae19b",
+    "content-hash": "1fbb41913bc9c3fe9a722f765e25e0a3",
     "packages": [
         {
             "name": "composer/installers",
@@ -350,15 +350,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.6.11",
+            "version": "3.6.12",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.6.11"
+                "reference": "tags/3.6.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.11.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.12.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -566,15 +566,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.5.6",
+            "version": "3.6.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.5.6"
+                "reference": "tags/3.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.5.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.6.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
