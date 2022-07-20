@@ -10,7 +10,7 @@
     "wpackagist-plugin/disable-emojis": "1.7.4",
     "wpackagist-plugin/ninja-forms": "3.6.12",
     "wpackagist-plugin/query-monitor": "3.9.0",
-    "wpackagist-plugin/sucuri-scanner": "1.8.31",
+    "wpackagist-plugin/sucuri-scanner": "1.8.32",
     "wpackagist-plugin/wa11y": "1.0.3",
     "wpackagist-plugin/wp-to-twitter": "3.6.1",
     "wpackagist-plugin/wp-piwik": "1.0.27",
@@ -27,11 +27,11 @@
     "wpackagist-plugin/autodescription": "4.2.5",
     "wpackagist-plugin/conditional-widgets": "3.1",
     "wpackagist-plugin/reading-time-wp": "2.0.10",
-    "wpackagist-plugin/breadcrumb-navxt": "7.0.2",
+    "wpackagist-plugin/breadcrumb-navxt": "7.1.0",
     "wpackagist-plugin/blogroll-block": "1.2.0",
     "wpackagist-plugin/ewww-image-optimizer": "6.6.0",
     "wpackagist-plugin/table-of-contents": "1.0.2",
-    "wpackagist-plugin/antispam-bee": "2.11.0"
+    "wpackagist-plugin/antispam-bee": "2.11.1"
   },
   "extra": {
     "installer-paths": {

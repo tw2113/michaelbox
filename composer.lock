@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1fbb41913bc9c3fe9a722f765e25e0a3",
+    "content-hash": "1664e8559bba32aed72ae446ae6be9b4",
     "packages": [
         {
             "name": "composer/installers",
@@ -152,15 +152,15 @@
         },
         {
             "name": "wpackagist-plugin/antispam-bee",
-            "version": "2.11.0",
+            "version": "2.11.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/antispam-bee/",
-                "reference": "tags/2.11.0"
+                "reference": "tags/2.11.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.11.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.11.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -224,15 +224,15 @@
         },
         {
             "name": "wpackagist-plugin/breadcrumb-navxt",
-            "version": "7.0.2",
+            "version": "7.1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/breadcrumb-navxt/",
-                "reference": "tags/7.0.2"
+                "reference": "tags/7.1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.7.0.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.7.1.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -458,15 +458,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.31",
+            "version": "1.8.32",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.31"
+                "reference": "tags/1.8.32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.31.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.32.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
