@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1664e8559bba32aed72ae446ae6be9b4",
+    "content-hash": "e4f7aaa7c4628b2461f02d23136e4b9f",
     "packages": [
         {
             "name": "composer/installers",
@@ -314,15 +314,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.6.0",
+            "version": "6.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.6.0"
+                "reference": "tags/6.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.6.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.7.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -386,15 +386,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.8.1",
+            "version": "3.8.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.8.1"
+                "reference": "tags/3.8.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.8.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.8.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -458,15 +458,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.32",
+            "version": "1.8.33",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.32"
+                "reference": "tags/1.8.33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.32.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.33.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
