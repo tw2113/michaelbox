@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ba0d71a1e35a6f7647eaf32fb4adfe95",
+    "content-hash": "794b316816091b7ed27ecfdb551c9363",
     "packages": [
         {
             "name": "composer/installers",
@@ -171,15 +171,15 @@
         },
         {
             "name": "wpackagist-plugin/autodescription",
-            "version": "4.2.5",
+            "version": "4.2.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autodescription/",
-                "reference": "tags/4.2.5"
+                "reference": "tags/4.2.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autodescription.4.2.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/autodescription.4.2.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -369,15 +369,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.8.4",
+            "version": "3.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.8.4"
+                "reference": "tags/3.9.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.8.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.9.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
