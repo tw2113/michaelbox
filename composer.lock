@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f4c80ad857744fb68c608f200208c66e",
+    "content-hash": "b1a2df5c2f2b322a8ab4843ea47285bf",
     "packages": [
         {
             "name": "composer/installers",
@@ -315,15 +315,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "6.9.2",
+            "version": "6.9.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/6.9.2"
+                "reference": "tags/6.9.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.9.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.6.9.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -459,15 +459,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.35",
+            "version": "1.8.36",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.35"
+                "reference": "tags/1.8.36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.35.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.36.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
