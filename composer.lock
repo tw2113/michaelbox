@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b1a2df5c2f2b322a8ab4843ea47285bf",
+    "content-hash": "9dc0b5eded8f5e51758e51b476662b26",
     "packages": [
         {
             "name": "composer/installers",
@@ -153,15 +153,15 @@
         },
         {
             "name": "wpackagist-plugin/antispam-bee",
-            "version": "2.11.1",
+            "version": "2.11.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/antispam-bee/",
-                "reference": "tags/2.11.1"
+                "reference": "tags/2.11.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.11.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.11.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -171,15 +171,15 @@
         },
         {
             "name": "wpackagist-plugin/autodescription",
-            "version": "4.2.7.1",
+            "version": "4.2.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autodescription/",
-                "reference": "tags/4.2.7.1"
+                "reference": "tags/4.2.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autodescription.4.2.7.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/autodescription.4.2.8.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -225,15 +225,15 @@
         },
         {
             "name": "wpackagist-plugin/breadcrumb-navxt",
-            "version": "7.1.0",
+            "version": "7.2.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/breadcrumb-navxt/",
-                "reference": "tags/7.1.0"
+                "reference": "tags/7.2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.7.1.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.7.2.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -269,7 +269,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1645540116"
+                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1676582798"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -333,15 +333,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.6.14",
+            "version": "3.6.20",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.6.14"
+                "reference": "tags/3.6.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.14.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.20.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -387,15 +387,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "3.10.1",
+            "version": "3.12.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/3.10.1"
+                "reference": "tags/3.12.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.10.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.12.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -423,15 +423,15 @@
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
-            "version": "3.11.1",
+            "version": "3.12.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/semantic-linkbacks/",
-                "reference": "tags/3.11.1"
+                "reference": "tags/3.12.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.11.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/semantic-linkbacks.3.12.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -459,15 +459,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.8.36",
+            "version": "1.8.37",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.8.36"
+                "reference": "tags/1.8.37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.36.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.37.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -531,15 +531,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "4.0.8",
+            "version": "4.0.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/4.0.8"
+                "reference": "tags/4.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.4.0.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
