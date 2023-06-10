@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4802b4d448fc888369c7f97057018ade",
+    "content-hash": "960ff9cab6b24004dd5f90febca6b782",
     "packages": [
         {
             "name": "composer/installers",
@@ -314,24 +314,6 @@
             "homepage": "https://wordpress.org/plugins/conditional-widgets/"
         },
         {
-            "name": "wpackagist-plugin/custom-post-type-ui",
-            "version": "1.13.6",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/custom-post-type-ui/",
-                "reference": "tags/1.13.6"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/custom-post-type-ui.1.13.6.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/custom-post-type-ui/"
-        },
-        {
             "name": "wpackagist-plugin/disable-emojis",
             "version": "1.7.4",
             "source": {
@@ -368,34 +350,16 @@
             "homepage": "https://wordpress.org/plugins/ewww-image-optimizer/"
         },
         {
-            "name": "wpackagist-plugin/gutenberg",
-            "version": "15.9.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/gutenberg/",
-                "reference": "tags/15.9.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/gutenberg.15.9.1.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/gutenberg/"
-        },
-        {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.6.20",
+            "version": "3.6.24",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.6.20"
+                "reference": "tags/3.6.24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.20.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.24.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
