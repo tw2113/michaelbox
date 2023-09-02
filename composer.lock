@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6ba10f1a48d84d877e3074f8654b49ca",
+    "content-hash": "c2349fee891d15095f25dc40869298b7",
     "packages": [
         {
             "name": "composer/installers",
@@ -207,15 +207,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "8.1.7",
+            "version": "8.1.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/8.1.7"
+                "reference": "tags/8.1.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.8.1.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.8.1.8.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -351,15 +351,15 @@
         },
         {
             "name": "wpackagist-plugin/ninja-forms",
-            "version": "3.6.28",
+            "version": "3.6.29",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ninja-forms/",
-                "reference": "tags/3.6.28"
+                "reference": "tags/3.6.29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.28.zip"
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.6.29.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -387,15 +387,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.11.0",
+            "version": "3.12.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.11.0"
+                "reference": "tags/3.12.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.11.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.12.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -549,15 +549,15 @@
         },
         {
             "name": "wpackagist-plugin/webmention",
-            "version": "5.1.1",
+            "version": "5.1.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/webmention/",
-                "reference": "tags/5.1.1"
+                "reference": "tags/5.1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/webmention.5.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/webmention.5.1.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -582,24 +582,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-piwik/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-to-twitter",
-            "version": "3.7.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-to-twitter/",
-                "reference": "tags/3.7.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-to-twitter.3.7.0.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-to-twitter/"
         },
         {
             "name": "wpackagist-plugin/wp-uf2",
