@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2349fee891d15095f25dc40869298b7",
+    "content-hash": "e6b9d5698c7e833a583ed1fecd0a509f",
     "packages": [
         {
             "name": "composer/installers",
@@ -333,15 +333,15 @@
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
-            "version": "7.2.0",
+            "version": "7.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/7.2.0"
+                "reference": "tags/7.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.7.2.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.7.2.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -387,15 +387,15 @@
         },
         {
             "name": "wpackagist-plugin/publishpress",
-            "version": "3.12.0",
+            "version": "3.12.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/publishpress/",
-                "reference": "tags/3.12.0"
+                "reference": "tags/3.12.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/publishpress.3.12.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/publishpress.3.12.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
