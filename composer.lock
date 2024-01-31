@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ff975893ce5369b356de4aa70d3e9e63",
+    "content-hash": "54347ab44a3fa6f43696b1220842320e",
     "packages": [
         {
             "name": "composer/installers",
@@ -438,6 +438,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/reading-time-wp/"
+        },
+        {
+            "name": "wpackagist-plugin/redirection",
+            "version": "5.4.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/redirection/",
+                "reference": "tags/5.4.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/redirection.5.4.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/redirection/"
         },
         {
             "name": "wpackagist-plugin/semantic-linkbacks",
